@@ -1,5 +1,5 @@
 # Project: Can you unscramble a blurry image? 
-![image](figs/example.png)
+![image](https://github.com/collleenwang/Unscramble-blurry-images/blob/master/1.jpeg)
 
 Here is an example about predictive modeling to make 1500 blurry images into clear ones
 
